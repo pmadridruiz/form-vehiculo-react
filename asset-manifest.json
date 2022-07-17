@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-vehiculo-react/static/css/main.3d71f009.css",
+    "main.js": "/form-vehiculo-react/static/js/main.cfcaa5b8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/form-vehiculo-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/form-vehiculo-react/index.html",
+    "main.3d71f009.css.map": "/form-vehiculo-react/static/css/main.3d71f009.css.map",
+    "main.cfcaa5b8.js.map": "/form-vehiculo-react/static/js/main.cfcaa5b8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/form-vehiculo-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d71f009.css",
+    "static/js/main.cfcaa5b8.js"
+  ]
+}
