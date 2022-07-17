@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/form-vehiculo-react/static/css/main.3d71f009.css",
-    "main.js": "/form-vehiculo-react/static/js/main.4bb63ecb.js",
+    "main.js": "/form-vehiculo-react/static/js/main.f9abad6a.js",
     "static/js/787.28cb0dcd.chunk.js": "/form-vehiculo-react/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/form-vehiculo-react/index.html",
     "main.3d71f009.css.map": "/form-vehiculo-react/static/css/main.3d71f009.css.map",
-    "main.4bb63ecb.js.map": "/form-vehiculo-react/static/js/main.4bb63ecb.js.map",
+    "main.f9abad6a.js.map": "/form-vehiculo-react/static/js/main.f9abad6a.js.map",
     "787.28cb0dcd.chunk.js.map": "/form-vehiculo-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d71f009.css",
-    "static/js/main.4bb63ecb.js"
+    "static/js/main.f9abad6a.js"
   ]
 }
