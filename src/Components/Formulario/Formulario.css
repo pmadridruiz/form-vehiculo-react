@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+form {
+    display: inline-block;
+}
+
+p {
+    font-weight: bold;
+}
